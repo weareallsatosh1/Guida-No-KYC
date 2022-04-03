@@ -4,6 +4,19 @@ Guida-come-essere-anonimi
 
 "Dobbiamo conoscere bene le regole, in modo da infrangerle nel modo giusto."
 
+Con KYC, acronimo inglese di ‘Know your customer’ (conosci il tuo cliente) si indica una serie di regolamentazioni che ogni azienda con una licenza bancaria deve obbligatoriamente seguire. Gli exchange di Bitcoin non sono esenti. Queste regole sono applicate in tutto il mondo e hanno lo scopo di assicurare che ogni azienda che agisce come casa di cambio di moneta e/o istituto di pagamento, abbia una quantità ‘adeguata’ di informazioni su ogni cliente che serve.
+
+Nel mondo di Bitcoin questo, “insidioso KYC” è una piaga che si sta lentamente diffondendo. Acquistando attraverso una di queste entità regolamentate, colleghi inevitabilmente i tuoi indirizzi bitcoin alla tua identità. Ciò rende molto facile per aziende di blockchain-analytics, le aziende per cui esse lavorano, o peggio, per i governi, effettuare alcune di queste attività:
+
+    Tracciare le tue abitudini di spesa
+    Impedirti l’utilizzo di altri servizi regolamentati
+    Confiscare i tuoi bitcoin
+    Perseguirti per obbligazioni tributarie
+    In generale, avere troppe informazioni su di te
+
+Intendiamoci, capiamo perfettamente che un piano di auto-DCA (dollar cost averaging) presso un’azienda “Bitcoin-only” rende accumulare satoshi molto agevole e semplice. Non stiamo dicendo che aziende del genere abbiano intenzioni maligne. Vogliamo solo che tu ti renda conto di quello a cui devi rinunciare e dei rischi che devi correre per avere queste comodità. Procedi nella lettura e trai le tue conclusioni…
+
+
 PREMESSA: Essere anonimi di primo impatto può risultare scomodo, più costoso e senza senso, ma fidatevi ragazzi che agire con più privacy e anonimato ha dei vantaggi enormi, sia a livello fiscale, sia in sicurezza e altri aspetti... Di solito quando parlo di usare servizi no KYC le persone sono scettiche, continuano a usarli dicendo, "tanto se mi chiedono qualcosa dico che ho perso le chiavi private o altre scusanti", nel momento in cui c'è un problema fiscale nessuno viene a chiedervi niente, vi arriva una cartella esattoriale a casa e da lì iniziano anni di documenti, cause blablabla.... Qualsiasi moneta acquistate con KYC, le autorità fiscali sanno che ne le avete, non gli importa dove, come quando, a loro risulta che avete comprato. Inoltre i servizi KYC tengono monitorati gli indirizzi su cui prelevate le monete e dove le spostate ecc...
 
 Per chi non crede alle cartelle esattoriali ecc...vi consiglio vivamente di leggere il libro di Francesco Narmenni - Diventare invisibili Racconta di esperienze e problemi con il fisco di gente innocente. Detto questo..."uomo avvisato, mezzo salvato."
